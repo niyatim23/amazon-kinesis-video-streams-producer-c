@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['deviceinfoprovider_2ec_527',['DeviceInfoProvider.c',['../_device_info_provider_8c.html',1,'']]]
+  ['deviceinfoprovider_2ec_549',['DeviceInfoProvider.c',['../DeviceInfoProvider_8c.html',1,'']]]
 ];

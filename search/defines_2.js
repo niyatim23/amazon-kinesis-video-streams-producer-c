@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['jsmn_5fheader_906',['JSMN_HEADER',['../common_2_include_8h.html#aeef9c3539ffb9ed912a2976b67b43d68',1,'Include.h']]]
+  ['is_5fretriable_5fcommon_5flib_5ferror_940',['IS_RETRIABLE_COMMON_LIB_ERROR',['../common_2Include_8h.html#a733bad8b37f2311929e80a987534b0d2',1,'Include.h']]],
+  ['is_5fretriable_5fproducer_5ferror_941',['IS_RETRIABLE_PRODUCER_ERROR',['../cproducer_2Include_8h.html#a85ecbf6057c4f25ba4407f61d0b130e8',1,'Include.h']]]
 ];
